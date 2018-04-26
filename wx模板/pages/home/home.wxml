@@ -1,0 +1,8 @@
+<!--pages/home/home.wxml-->
+<view>
+  <xheader />
+  <text>pages/home/home.wxml</text>
+  <text>你好你是谁</text>
+  <input bindinput="getInput" />
+  <text>{{name}}</text>
+</view>

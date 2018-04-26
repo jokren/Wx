@@ -1,0 +1,2 @@
+<!--components/xheader/xheader.wxml-->
+<view class="header">{{name}}</view>

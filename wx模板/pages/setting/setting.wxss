@@ -1,0 +1,4 @@
+/* pages/setting/setting.wxss */
+image{
+  width: 100%;
+}

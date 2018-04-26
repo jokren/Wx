@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "xheader": "../../components/xheader/xheader"
+  }
+}
